@@ -7,3 +7,6 @@ I have applied to 236!". Job Counter allows a user to tally up the jobs they've 
 
 This is the first bit of Javascript code I have worked with :)! I have learned how to declare variables with "let", create functions, and
 how to interact with the DOM and use syntax like "document.getElementByID()". Cheers to the Javascript journey! 
+
+
+![jobcounter](https://user-images.githubusercontent.com/103782984/203156271-18c60d47-9ba1-4b05-83c5-5c1574f03565.gif)
